@@ -17,7 +17,7 @@ The Python script should do the following tasks.
     - http://storedomain.com/collections/all
 
 4. Load JSON data for each product from
-    - http://storedomain.com/products/&lt;product-handle&gt;.json
+    - http://storedomain.com/products/product-handle.json
 
 5. Get product title and featured (first) image URL from product JSON data.
 
